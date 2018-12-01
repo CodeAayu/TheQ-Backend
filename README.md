@@ -52,6 +52,7 @@ But the scope is not limited to this. We can implement this in Corporate Lunches
 
 All wrongs reserved! Use this code as much as possible and contribute to the project(https://github.com/hackabit18/Geeks_and_Freaks). We are always open to suggestions and Pull requests (preference :P). The project is yet to be completed for the frontend where we require the OSS community's support the most.
 On a side note, if you are using this source to create your own version of The-Q, make sure to give proper credits to the original developers of Geeks_and_Freaks from [Cyber Labs](https://www.fb.com/labscyber) (Cyber Society of IIT(ISM)-Dhanbad).
+
 See the file "LICENSE" for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
 
 ###### Note
