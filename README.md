@@ -57,4 +57,4 @@ See the file "LICENSE" for information on the history of this software, terms & 
 
 ###### Note
 
-Special Thanks to POSTMAN which let us test our APIs effectivley so as to design them properly without the frontend up and running.
+Special Thanks to POSTMAN which let us test our APIs effectivley so as to design them properly without the frontend in up and running state.
